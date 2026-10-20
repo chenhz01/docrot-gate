@@ -1,5 +1,5 @@
 name: docrot-gate
-description: Docs don't die at once. They rot one stale command at a time.
+description: Docs rot detector: find stale commands and broken references in documentation that quietly went out of date.
 branding:
   icon: shield
   color: blue
