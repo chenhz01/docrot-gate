@@ -50,7 +50,7 @@ Being explicit here is cheaper than a wrong expectation later.
 
 ## Exit codes
 
-`0` = clean, `1` = findings. Gate your pipeline on `$?`.
+`0` = no stale reference. `1` = broken reference found. `2` = bad input.
 
 ## Install
 
